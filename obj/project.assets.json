@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Henry\\source\\repos\\EtsyInspired\\EtsyInspired.csproj",
+      "projectUniqueName": "C:\\Users\\Henry\\Source\\Repos\\HenryGSmith\\EtsyInspired\\EtsyInspired.csproj",
       "projectName": "EtsyInspired",
-      "projectPath": "C:\\Users\\Henry\\source\\repos\\EtsyInspired\\EtsyInspired.csproj",
+      "projectPath": "C:\\Users\\Henry\\Source\\Repos\\HenryGSmith\\EtsyInspired\\EtsyInspired.csproj",
       "packagesPath": "C:\\Users\\Henry\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Henry\\source\\repos\\EtsyInspired\\obj\\",
+      "outputPath": "C:\\Users\\Henry\\Source\\Repos\\HenryGSmith\\EtsyInspired\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
