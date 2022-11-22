@@ -9,11 +9,11 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EtsyInspired
 build_property.RootNamespace = EtsyInspired
-build_property.ProjectDir = C:\Users\Henry\Source\Repos\HenryGSmith\EtsyInspired\
+build_property.ProjectDir = C:\Users\Henry\source\repos\HenryGSmith\EtsyInspired\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Henry\Source\Repos\HenryGSmith\EtsyInspired
+build_property.MSBuildProjectDirectory = C:\Users\Henry\source\repos\HenryGSmith\EtsyInspired
 build_property._RazorSourceGeneratorDebug = 
 
 [C:/Users/Henry/source/repos/HenryGSmith/EtsyInspired/Components/ProductList.razor]
