@@ -7,18 +7,16 @@
 	@foreach (var product in ProductService.GetProducts())
 	{
 		<div class="card border-light">
-			<div class="card-img" style="background-image: url('@product.Image');"></div>
-			<div class="card-body">
-				<h5 class="card-title">@product.Title</h5>
-			</div>
-		</div>
-		<div class="card-footer">
-			<small class="text-muted">
+			<div class="container">
+				<div class="card-img" style="background-image: url('@product.Image');"></div>
 				<button @onclick="(e => SelectProduct(product.Id))"
 					data-bs-toggle="modal" data-bs-target="#productModal" class="btn btn-primary">
 					More Info
 				</button>
-			</small>
+			</div>
+			<div class="card-body">
+				<h5 class="card-title">@product.Title</h5>
+			</div>
 		</div>
 	}
 </div>
