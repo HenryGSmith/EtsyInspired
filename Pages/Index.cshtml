@@ -1,5 +1,6 @@
 ﻿@page
 @using EtsyInspired.Components
+@using Microsoft.AspNetCore.Components.Server
 @model IndexModel
 @{
     ViewData["Title"] = "Home page";
@@ -11,3 +12,5 @@
 </div>
 
 @(await Html.RenderComponentAsync<ProductList>(RenderMode.ServerPrerendered))
+
+<script src="~/_framework/blazor.server.js"></script>
