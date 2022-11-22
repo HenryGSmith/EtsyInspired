@@ -6,21 +6,6 @@
     cursor: pointer;
 }
 
-.card-columns {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-}
-
-.card-columns > .card {
-    flex: 0 0 32%;
-    margin: 0 2% 20px 0;
-}
-
-.card-columns > .card:nth-child(3n) {
-    margin-right: 0;
-}
-
 .card-columns .card-body {
     height: 100px;
     font-family: 'Nunito', sans-serif;
